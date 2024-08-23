@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{ color-scheme: dark; }
+
+canvas{
+    display: block;
+    margin: 0 auto;
+}
